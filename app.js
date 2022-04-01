@@ -1,5 +1,7 @@
 function feature1() {
-	// TODO
+	code
+	slow code
+	code
 }
 
 function feature2() {
