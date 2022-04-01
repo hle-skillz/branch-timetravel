@@ -5,7 +5,9 @@ function feature1() {
 }
 
 function feature2() {
-	// TODO
+	code
+	code
+	code
 }
 
 function feature3() {
