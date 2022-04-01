@@ -11,5 +11,7 @@ function feature2() {
 }
 
 function feature3() {
-	// TODO
+	code
+	code
+	code
 }
